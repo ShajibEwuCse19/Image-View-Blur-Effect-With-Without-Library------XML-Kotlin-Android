@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blur Effect In Image</string>
+    <string name="show_blur_image">Blur Image Using Glide</string>
+    <string name="show_main_image">Main Image</string>
+    <string name="image">Image</string>
+    <string name="imageview">ImageView</string>
+    <string name="blur_image_using_hook_blur_library">Blur Image Using Hook Blur Library</string>
+</resources>
